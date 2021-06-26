@@ -1,0 +1,13 @@
+zuleimin father 1000
+lunana mother 2000
+zushaochen son 3000
+
+25
+25
+26	fish	fish	4000
+25
+26	fish	fish	4000
+25
+26	fish	fish	4000
+25
+26	fish	fish	4000

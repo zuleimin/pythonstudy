@@ -1,6 +1,9 @@
 import os
 import time
 import datetime
+import functions
+
+functions.multiple_table()
 this_year=2021
 myname=input('pls input your name:')
 myage=int(input('how old are you:'))
